@@ -4,7 +4,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.3%2B-0175C2.svg)](https://dart.dev)
 [![Material 3](https://img.shields.io/badge/Design-Material%203-teal.svg)](https://m3.material.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-🚀 **Live Demo:** [https://your-deployed-app-url.com](https://your-deployed-app-url.com)
+🚀 **Live Demo:** [https://flutter-project-jpxk.onrender.com/]
 A production-quality, responsive **Medicine Reminder** application built with Flutter and Dart. Designed with modern healthcare aesthetics, Material 3 theming, persistent local storage, and a truly reusable `MedicineReminderCard` widget that runs seamlessly across Web, Android, Windows, and iOS.
 
 ---
